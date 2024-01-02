@@ -1,0 +1,39 @@
+name: "${basename:${system.model.texture_img}}"
+exp_root_dir: "outputs_post"
+seed: 0
+
+
+data_type: "object-centric-datamodule"
+data: # threestudio/data/uncond.py -> RandomCameraDataModuleConfig
+  height: 1024
+  width: 1024
+  batch_size: 1
+  n_views: 12
+
+system_type: "ours-system"
+system:
+  model_type: "ours"
+  model:
+    num_inference_steps: 100
+    instance_prompt: "a photo of sks man riding a horse"
+    inversion_prompt: ${system.inversion.prompt}
+    
+  inpainting_type: "generative-fill"
+
+  inversion_type: "ddim-depth-controlnet"
+  inversion:
+    num_inference_steps: ${system.model.num_inference_steps}
+    prompt: "a photo of man riding a horse"
+
+  renderer_type: "mesh-renderer"
+  renderer:
+    height: 1024
+    width: 1024
+
+trainer:
+  max_steps: 100
+  log_every_n_steps: 1
+  num_sanity_val_steps: 0
+  val_check_interval: 0
+  enable_progress_bar: true
+  precision: 16-mixed

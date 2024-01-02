@@ -1,0 +1,246 @@
+{
+    "astronaut1/mask0_resize.png": {
+        "translation": [
+            -38,
+            -90
+        ],
+        "scale_factor": 1.0,
+        "image_dimensions": {
+            "width": 1332,
+            "height": 1333
+        }
+    },
+    "avenger1/mask0_avenger_resize.png": {
+        "translation": [
+            80,
+            -203
+        ],
+        "scale_factor": 3.762773725400004,
+        "image_dimensions": {
+            "width": 1024,
+            "height": 1024
+        }
+    },
+    "avenger1/mask0_resize.png": {
+        "translation": [
+            -69,
+            135
+        ],
+        "scale_factor": 1.230899830220713,
+        "image_dimensions": {
+            "width": 1450,
+            "height": 1450
+        }
+    },
+    "car1/mask0_resize.png": {
+        "translation": [
+            72,
+            -72
+        ],
+        "scale_factor": 2.305601565984329,
+        "image_dimensions": {
+            "width": 960,
+            "height": 960
+        }
+    },
+    "cake2/mask0_resize.png": {
+        "translation": [
+            -36,
+            -147
+        ],
+        "scale_factor": 1.0,
+        "image_dimensions": {
+            "width": 1396,
+            "height": 1395
+        },
+        "position": [
+            182,
+            126
+        ]
+    },
+    "cat2/mask0_resize.png": {
+        "translation": [
+            -59,
+            222
+        ],
+        "scale_factor": 1.1635056713629326,
+        "image_dimensions": {
+            "width": 3660,
+            "height": 3660
+        }
+    },
+    "chair1/mask0_resize.png": {
+        "translation": [
+            99,
+            172
+        ],
+        "scale_factor": 1.0955046760466762,
+        "image_dimensions": {
+            "width": 1498,
+            "height": 1498
+        },
+        "position": [
+            263,
+            381
+        ]
+    },
+    "cherry2/mask0_resize.png": {
+        "translation": [
+            18,
+            -3
+        ],
+        "scale_factor": 1.00418410041841,
+        "image_dimensions": {
+            "width": 1200,
+            "height": 1200
+        }
+    },
+    "dog1/mask0_resize.png": {
+        "translation": [
+            -143,
+            122
+        ],
+        "scale_factor": 3.240973971452561,
+        "image_dimensions": {
+            "width": 3860,
+            "height": 3860
+        }
+    },
+    "dog5/mask0_resize.png": {
+        "translation": [
+            81,
+            147
+        ],
+        "scale_factor": 1.0212032464367686,
+        "image_dimensions": {
+            "width": 4912,
+            "height": 4912
+        }
+    },
+    "duck1/mask0_resize.png": {
+        "translation": [
+            -312,
+            -33
+        ],
+        "scale_factor": 1.9850329821834045,
+        "image_dimensions": {
+            "width": 1280,
+            "height": 1280
+        }
+    },
+    "fish1/mask0_resize.png": {
+        "translation": [
+            358,
+            313
+        ],
+        "scale_factor": 2.301521438450899,
+        "image_dimensions": {
+            "width": 1664,
+            "height": 1664
+        }
+    },
+    "joker1/mask0_resize.png": {
+        "translation": [
+            -45,
+            14
+        ],
+        "scale_factor": 1.0006355259618311,
+        "image_dimensions": {
+            "width": 1050,
+            "height": 1050
+        }
+    },
+    "lalaland2/mask0_resize.png": {
+        "translation": [
+            145,
+            5
+        ],
+        "scale_factor": 1.1049723756906078,
+        "image_dimensions": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "lebron2/mask0_resize.png": {
+        "translation": [
+            45,
+            190
+        ],
+        "scale_factor": 1.2323972323972323,
+        "image_dimensions": {
+            "width": 3028,
+            "height": 3028
+        }
+    },
+    "pumpkin1/mask0_resize.png": {
+        "translation": [
+            -18,
+            -52
+        ],
+        "scale_factor": 1.0,
+        "image_dimensions": {
+            "width": 852,
+            "height": 853
+        },
+        "position": [
+            144,
+            127
+        ]
+    },
+    "watermelon1/mask0_resize.png": {
+        "translation": [
+            -24,
+            112
+        ],
+        "scale_factor": 1.0,
+        "image_dimensions": {
+            "width": 1080,
+            "height": 1080
+        },
+        "position": [
+            257,
+            207
+        ]
+    },
+    "worm1/mask0_resize.png": {
+        "translation": [
+            -172,
+            -353
+        ],
+        "scale_factor": 1.3288859239492996,
+        "image_dimensions": {
+            "width": 1992,
+            "height": 1992
+        }
+    },
+    "test/img_resize.png": {
+        "translation": [
+            -45,
+            14
+        ],
+        "scale_factor": 1.0006355259618311,
+        "image_dimensions": {
+            "width": 1050,
+            "height": 1050
+        },
+        "position": [
+            37,
+            250
+        ]
+    },
+    "test/img.png": {
+        "translation": [
+            -45,
+            14
+        ],
+        "scale_factor": 1.0006355259618311,
+        "image_dimensions": {
+            "width": 1050,
+            "height": 1050
+        },
+        "position": [
+            37,
+            250
+        ]
+    }
+}
