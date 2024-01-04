@@ -1,6 +1,6 @@
 # Image Sculpting: Precise Object Editing with 3D Geometry Control
 
-### [Project Page](https://image-sculpting.github.io/) | [Video](https://youtu.be/qdk6sVr47MQ?si=5CFkkqVLhMb76guF) | [Paper]() | [Data](https://drive.google.com/drive/folders/1VeopyGxegiQg-Skqisluvko9ed9y3rXl?usp=drive_link)
+### [Project Page](https://image-sculpting.github.io/) | [Video](https://youtu.be/qdk6sVr47MQ?si=5CFkkqVLhMb76guF) | [Paper](https://arxiv.org/abs/2401.01702) | [Data](https://drive.google.com/drive/folders/1VeopyGxegiQg-Skqisluvko9ed9y3rXl?usp=drive_link)
 
 Authors: [Jiraphon Yenphraphai](https://domejiraphon.github.io/)<sup>1</sup>, [Xichen Pan](https://xichenpan.com/)<sup>1</sup>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu)<sup>2</sup>, [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)<sup>1</sup>, [Saining Xie](https://www.sainingxie.com/)<sup>1</sup>  
 Affiliations: <sup>1</sup>New York University, <sup>2</sup>Intel Labs  
@@ -171,7 +171,7 @@ This project is under the MIT license. See [LICENSE](LICENSE) for details.
 @inproceedings{Yenphraphai2023imagesculpting,
     author = {Yenphraphai, Jiraphon and Pan, Xichen and Liu, Sainan and Panozzo, Daniele and Xie, Saining},
     title = {Image Sculpting: Precise Object Editing with 3D Geometry Control},
-    journal = {arXiv preprint}, 
-    year = {2023},
+    journal = {arXiv preprint arXiv:2401.01702}, 
+    year = {2024},
 }
 ```
