@@ -6,7 +6,7 @@ Authors: [Jiraphon Yenphraphai](https://domejiraphon.github.io/)<sup>1</sup>, [X
 Affiliations: <sup>1</sup>New York University, <sup>2</sup>Intel Labs  
 
 
-[![Image Sculpting](https://i.imgur.com/LZ3Fc0e.jpeg)](https://youtu.be/ZLAE8pTG5g8?si=2P-zPHatOf9MBGS1)
+[![Image Sculpting](https://i.imgur.com/LZ3Fc0e.jpeg)](https://youtu.be/qdk6sVr47MQ?si=w3dKpU3kHtIRDAGj)
 
 We present Image Sculpting, a new framework for editing 2D images by incorporating tools from 3D geometry and graphics. This approach differs markedly from existing methods, which are confined to 2D spaces and typically rely on textual instructions, leading to ambiguity and limited control. Image Sculpting converts 2D objects into 3D, enabling direct interaction with their 3D geometry. Post-editing, these objects are re-rendered into 2D, merging into the original image to produce high-fidelity results through a coarse-to-fine enhancement process. The framework supports precise, quantifiable, and physically-plausible editing options such as pose editing, rotation, translation, 3D composition, carving, and serial addition. It marks an initial step towards combining the creative freedom of generative models with the precision of graphics pipelines.
 ## Table of contents
