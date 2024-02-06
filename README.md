@@ -36,7 +36,7 @@ This code is borrowed from [threestudio](https://github.com/threestudio-project/
 ## Running our images
 We have provided the reconstructed meshes along with its 3D editing in [google drive](https://drive.google.com/drive/folders/1cjUyssJaarYNpmY0pKxDGA4aOAlqZAad?usp=sharing), supporting the following of our capabilities. Download the `zip file` from Google Drive and place it in the `image_sculpting`.
 ```bash
-git clone https://github.com/domejiraphon/threestudio
+git clone https://github.com/vision-x-nyu/image-sculpting
 cd image-sculpting
 unzip runs.zip
 ```
