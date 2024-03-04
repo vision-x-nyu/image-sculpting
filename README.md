@@ -1,4 +1,4 @@
-# Image Sculpting: Precise Object Editing with 3D Geometry Control
+# Image Sculpting: Precise Object Editing with 3D Geometry Control [CVPR 2024]
 
 ### [Project Page](https://image-sculpting.github.io/) | [Video](https://youtu.be/qdk6sVr47MQ?si=5CFkkqVLhMb76guF) | [Paper](https://arxiv.org/abs/2401.01702) | [Data](https://drive.google.com/drive/folders/1VeopyGxegiQg-Skqisluvko9ed9y3rXl?usp=drive_link)
 
